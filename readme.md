@@ -4,7 +4,7 @@ A demo application to illustrate how [Inertia.js](https://inertiajs.com/) works 
 
 > This is a port of the original [Ping CRM](https://github.com/inertiajs/pingcrm) written in Laravel and Vue.
 
-![](https://raw.githubusercontent.com/landish/pingcrm-react/master/screenshot.png)
+![New Bitmap Image](https://user-images.githubusercontent.com/95680946/145932289-7d9d0a66-cb45-4201-a5bc-f8d0d75f46fa.jpg)
 
 ## Installation
 

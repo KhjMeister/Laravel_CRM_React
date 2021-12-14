@@ -1,0 +1,14 @@
+/* Base */
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+
+/* Components */
+@import 'components/button';
+@import 'components/form';
+
+/* Utilities */
+@import 'tailwindcss/utilities';
+.rtl{
+	direction: rtl;
+	text-align: right;
+}
